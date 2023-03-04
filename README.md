@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunosavoca
-- 👀 I’m interested in digital business strategy.
+- 👀 I’m interested in building Machine Learning Models.
 - 🌱 I’m currently learning MBA & Data Science (soon)
 - 💞️ I’m looking to collaborate on business & digital strategy
 - 📫 How to reach me hello@brunosavoca.com
