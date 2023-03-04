@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunosavoca
 - 👀 I’m interested in building Machine Learning Models.
-- 🌱 I’m currently learning MBA & Data Science (soon)
+- 🌱 I’m currently a Dual Degree MBA/MSBA candidate @iae_austral & @miamiherbert
 - 💞️ I’m looking to collaborate on business & digital strategy
 - 📫 How to reach me hello@brunosavoca.com
 
