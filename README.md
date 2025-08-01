@@ -2,7 +2,7 @@
 - 👋 Hello, I'm @brunosavoca
 - 🔍 Focused on crafting advanced Machine Learning Models.
 - 🎓 MSc, MBA @ Miami Herbert Business Scholl
-- 🗽 Machine Learning Researcher at Deloitte NYC.
+- 🗽 Sr Technical Project Manager @ JPMorgan Chase NYC.
 - 🚀 Open to collaborations in business & digital strategy, leveraging my expertise in machine learning, AI, and data science.
 - 📧 Reach out to me at brunosavoc@gmail.com for projects.
 
